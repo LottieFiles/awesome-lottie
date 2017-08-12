@@ -32,15 +32,6 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Lottie for ReactJS by [chenqingspring](https://github.com/chenqingspring/react-lottie)
 * Lottie for VueJS by [chenqingspring](https://github.com/chenqingspring/vue-lottie)
 
-## Tutorials
-### Lottie
-
-* A Beginning’s Guide to Lottie: Creating Amazing Animations in iOS Apps [Read](https://www.appcoda.com/lottie-beginner-guide/)
-* Lottie React Native Tutorial [Read](https://medium.com/react-native-training/lottie-react-native-tutorial-162d91840720)
-
-### Bodymovin & After Effects
-* Bodymovin in five minutes [Read](https://medium.com/@shinjipons/bodymovin-in-five-minutes-e5bf1483a272)
-
 ## Podcasts
 * School of Motion: After Effects to Code: Lottie from Airbnb [Visit](https://www.schoolofmotion.com/blog/after-effects-to-code-lottie-from-airbnb?utm_source=youtube&utm_medium=video&utm_content=Lottie&utm_campaign=yt-onboard) / [Listen](https://sommediaprod.s3.amazonaws.com/2f20bed0-144a-4ca3-8a77-7d131e300326.mp3)
 * Fragmented Podcast 082: Airbnb’s Gabriel tells us how to animate with Lottie [Visit](http://fragmentedpodcast.com/episodes/82/) / [Listen](https://audio.simplecast.com/68915.mp3)
@@ -74,8 +65,17 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 ## Interviews
 * Interview with Salih from Airbnb about how he turned icons into moving animations with Lottie [Read](blog.thenounproject.com/icons-in-motion/)
 
+## Tutorials
+### Lottie
+
+* A Beginning’s Guide to Lottie: Creating Amazing Animations in iOS Apps [Read](https://www.appcoda.com/lottie-beginner-guide/)
+* Lottie React Native Tutorial [Read](https://medium.com/react-native-training/lottie-react-native-tutorial-162d91840720)
+
+### Bodymovin
+* Bodymovin in five minutes [Read](https://medium.com/@shinjipons/bodymovin-in-five-minutes-e5bf1483a272)
+
+### After Effects Tutorials
+* How to Animate an Icon in After Effects [Watch](https://www.youtube.com/watch?v=e_W-LlGrREg)
+
 ## Misc
 * Creating Usability with Motion: The UX in Motion Manifesto by Issara Willenskomer [Read](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-
-## After Effects Tutorials
-* How to Animate an Icon in After Effects [Read](https://www.youtube.com/watch?v=e_W-LlGrREg)
