@@ -37,8 +37,9 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Lottie React Native Tutorial [Read](https://medium.com/react-native-training/lottie-react-native-tutorial-162d91840720)
 
 ## Podcasts
+* School of Motion: After Effects to Code: Lottie from Airbnb [Visit](https://www.schoolofmotion.com/blog/after-effects-to-code-lottie-from-airbnb?utm_source=youtube&utm_medium=video&utm_content=Lottie&utm_campaign=yt-onboard) / [Listen](https://sommediaprod.s3.amazonaws.com/2f20bed0-144a-4ca3-8a77-7d131e300326.mp3)
 * Fragmented Podcast 082: Airbnb’s Gabriel tells us how to animate with Lottie [Visit](http://fragmentedpodcast.com/episodes/82/) / [Listen](https://audio.simplecast.com/68915.mp3)
-* Software Engineering Daily: Lottie Animation with Brandon Withrow and Gabriel Peal [Visit]() / [Listen](http://traffic.libsyn.com/sedaily/Lottie.mp3)
+* Software Engineering Daily: Lottie Animation with Brandon Withrow and Gabriel Peal [Visit](softwareengineeringdaily.com/2017/08/10/lottie-animation-with-brandon-withrow-and-gabriel-peal/) / [Listen](http://traffic.libsyn.com/sedaily/Lottie.mp3)
 * Xamarin Podcast 42: [Visit](http://www.xamarinpodcast.com/42) / [Listen](https://audio.fireside.fm/podcasts/audio/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/episodes/c/c785146b-4774-44bd-95dd-67a2b35e7f2f/c785146b-4774-44bd-95dd-67a2b35e7f2f.mp3)
 
 ## Articles
@@ -67,3 +68,6 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 
 ## Interviews
 * Interview with Salih from Airbnb about how he turned icons into moving animations with Lottie [Read](blog.thenounproject.com/icons-in-motion/)
+
+## Misc
+* Creating Usability with Motion: The UX in Motion Manifesto by Issara Willenskomer [Read](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
