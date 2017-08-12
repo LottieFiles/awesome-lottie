@@ -33,8 +33,13 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Lottie for VueJS by [chenqingspring](https://github.com/chenqingspring/vue-lottie)
 
 ## Tutorials
+### Lottie
+
 * A Beginning’s Guide to Lottie: Creating Amazing Animations in iOS Apps [Read](https://www.appcoda.com/lottie-beginner-guide/)
 * Lottie React Native Tutorial [Read](https://medium.com/react-native-training/lottie-react-native-tutorial-162d91840720)
+
+### Bodymovin & After Effects
+* Bodymovin in five minutes [Read](https://medium.com/@shinjipons/bodymovin-in-five-minutes-e5bf1483a272)
 
 ## Podcasts
 * School of Motion: After Effects to Code: Lottie from Airbnb [Visit](https://www.schoolofmotion.com/blog/after-effects-to-code-lottie-from-airbnb?utm_source=youtube&utm_medium=video&utm_content=Lottie&utm_campaign=yt-onboard) / [Listen](https://sommediaprod.s3.amazonaws.com/2f20bed0-144a-4ca3-8a77-7d131e300326.mp3)
