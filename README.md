@@ -78,4 +78,5 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * How to Animate an Icon in After Effects [Watch](https://www.youtube.com/watch?v=e_W-LlGrREg)
 
 ## Misc
+* Sketch2AE - A Sketch plugin to export sketch file to Adobe After Effect [Read](https://github.com/bigxixi/Sketch2AE)
 * Creating Usability with Motion: The UX in Motion Manifesto by Issara Willenskomer [Read](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
