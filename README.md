@@ -16,6 +16,7 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
     - [Android](#Android)
     - [iOS](#iOS)
     - [Desktop](#Desktop)
+    - [Multi-Platform](#Multi-platform)
 - [Tools](#tools)
 
 
@@ -64,7 +65,7 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Lottie for UWP by [azchohfi](https://github.com/azchohfi/LottieUWP)
 
 
-#### Other
+#### Multi-Platform
 * rLottie by @Samsung [View](https://github.com/Samsung/rlottie)
 * QT [View](https://www.qt.io/blog/2019/03/08/announcing-qtlottie)
 * Skottie - Lottie Animation Player [View](https://skia.org/user/modules/skottie)
