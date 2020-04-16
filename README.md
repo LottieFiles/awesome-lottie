@@ -45,7 +45,7 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Lottie for Web: [Official](https://github.com/airbnb/lottie-web)
 * Lottie for VueJS by [chenqingspring](https://github.com/chenqingspring/vue-lottie)
 * Lottie for Angular by [chenqingspring](https://github.com/chenqingspring/ng-lottie)
-* Lottie for ReactJS by [chenqingspring](https://github.com/chenqingspring/react-lottie)
+* Lottie for React by [Gamote](https://github.com/gamote/lottie-react)
 
 #### Android
 
