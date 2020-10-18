@@ -76,3 +76,4 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Sketch2AE - A Sketch plugin to export sketch file to Adobe After Effect [Read](https://github.com/bigxixi/Sketch2AE)
 * puppeteer-lottie - Renders Lottie animations via Puppeteer to image, GIF, or MP4 [View](https://github.com/transitive-bullshit/puppeteer-lottie)
 * lottie-colorify - Change lottie colors from code [View](https://github.com/xxmuaddib/lottie-colorify)
+* lottie-interactive - Custom web element to add interactivity to your Lottie Animations [View](https://github.com/samuelOsborne/Lottie-interactive)
