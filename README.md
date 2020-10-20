@@ -34,6 +34,7 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * FramerX Lottie Package [View](https://store.framer.com/package/airbnb/lottie)
 * Protopie Lottie Layer [View](https://www.protopie.io/learn/basics/)
 * Lottie Support for Webflow [View](https://university.webflow.com/courses/after-effects-lottie)
+* LottieFiles Figma Plugin [View](https://www.figma.com/community/plugin/809860933081065308/LottieFiles)
 
 #### Apps
 * Keyshape for Mac [View](https://www.keyshapeapp.com/)
@@ -43,9 +44,12 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 ## Libraries
 #### Web
 * Lottie for Web: [Official](https://github.com/airbnb/lottie-web)
+* Lottie for Web by [LottieFiles](https://github.com/LottieFiles/lottie-player)
+* Lottie for React by [LottieFiles](https://github.com/LottieFiles/lottie-react)
+* Lottie for React by [Gamote](https://github.com/gamote/lottie-react)
+* Lottie for Svelte by [LottieFiles](https://github.com/LottieFiles/svelte-lottie-player)
 * Lottie for VueJS by [chenqingspring](https://github.com/chenqingspring/vue-lottie)
 * Lottie for Angular by [chenqingspring](https://github.com/chenqingspring/ng-lottie)
-* Lottie for React by [Gamote](https://github.com/gamote/lottie-react)
 
 #### Android
 
@@ -71,7 +75,8 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Skottie - Lottie Animation Player [View](https://skia.org/user/modules/skottie)
 
 ## Tools
-* Lottie JSON Editor [View](https://lottiefiles.com/tools/json-editor)
+* Lottie Interactivity Library - [View](https://lottiefiles.com/interactivity)
+* Lottie JSON Editor - [View](https://lottiefiles.com/tools/json-editor)
 * Lottie Web Editor - Editor Lottie Animations online [View](http://lottiefiles.com/editor)
 * Sketch2AE - A Sketch plugin to export sketch file to Adobe After Effect [Read](https://github.com/bigxixi/Sketch2AE)
 * puppeteer-lottie - Renders Lottie animations via Puppeteer to image, GIF, or MP4 [View](https://github.com/transitive-bullshit/puppeteer-lottie)
