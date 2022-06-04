@@ -39,6 +39,8 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 #### Apps
 * Keyshape for Mac [View](https://www.keyshapeapp.com/)
 * [Animator](https://www.haikuforteams.com/animator/) by @haikuforteams
+* [Glaxnimate](https://glaxnimate.mattbas.org/) by @mbasaglia
+
 
 
 ## Libraries
