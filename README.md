@@ -35,6 +35,7 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Protopie Lottie Layer [View](https://www.protopie.io/learn/basics/)
 * Lottie Support for Webflow [View](https://university.webflow.com/courses/after-effects-lottie)
 * LottieFiles Figma Plugin [View](https://www.figma.com/community/plugin/809860933081065308/LottieFiles)
+* Remotion Lottie Package [View](https://remotion.dev/lottie)
 
 #### Apps
 * Keyshape for Mac [View](https://www.keyshapeapp.com/)
