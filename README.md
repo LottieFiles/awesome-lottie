@@ -95,3 +95,4 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * lottie-colorify - Change lottie colors from code [View](https://github.com/xxmuaddib/lottie-colorify)
 * lottie-interactive - Custom web element to add interactivity to your Lottie Animations [View](https://github.com/samuelOsborne/Lottie-interactive)
 * lottie-toggles  - Utility library to easily use the various switch and toggle animations[View](https://github.com/CoderVishalSehgal/lottie-toggles)
+* SVG to TGS - Animate SVG artwork and export Telegram TGS files for stickers and custom emoji [View](https://svgtotgs.com/)
