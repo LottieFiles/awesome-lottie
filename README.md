@@ -95,3 +95,5 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * lottie-colorify - Change lottie colors from code [View](https://github.com/xxmuaddib/lottie-colorify)
 * lottie-interactive - Custom web element to add interactivity to your Lottie Animations [View](https://github.com/samuelOsborne/Lottie-interactive)
 * lottie-toggles  - Utility library to easily use the various switch and toggle animations[View](https://github.com/CoderVishalSehgal/lottie-toggles)
+* TinyLottie - Compress Lottie JSON & dotLottie files in the browser and convert JSON ↔ .lottie (no uploads) [View](https://tinylottie.com)
+* tinylottie CLI - Optimize Lottie / dotLottie files from the command line or CI (`npx tinylottie`) [View](https://www.npmjs.com/package/tinylottie)
